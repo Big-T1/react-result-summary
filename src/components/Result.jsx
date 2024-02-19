@@ -5,9 +5,6 @@ import img3 from '../assets/images/icon-verbal.svg'
 import img4 from '../assets/images/icon-visual.svg'
 import '../css/Style.css'
 
-// import Summary from './Summary'
-import '../css/Style.css'
-
 const Result = () => {
   return (
     <>
